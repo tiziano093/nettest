@@ -81,7 +81,7 @@ if __name__ == '__main__':
         parser.add_argument \
                 ( "-i", "--IP"
                 , type=str
-                , default="8.8.8.8"
+                , default="localhost"
                 , help = "IP of the destination"        
                 )
 
